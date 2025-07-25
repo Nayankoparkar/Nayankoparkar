@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi there, I'm Nayan Koparkar
 
-<!--
-**Nayankoparkar/Nayankoparkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Data Analyst | Python Enthusiast | ML Practitioner | Storytelling with Data
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m a passionate Data Analyst with a strong foundation in **MS SQL Server**, **Python**, **Machine Learning**, **Statistics**, **Advanced Excel**, and **Tableau**. I thrive on uncovering actionable insights through data and presenting them in a way that drives business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Technologies & Tools
+
+- **Languages:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL (MS SQL Server)
+- **Data Visualization:** Tableau, Excel (PivotTables, Power Query, Charts)
+- **Machine Learning:** Regression, Classification, Clustering, Model Evaluation
+- **Other Skills:** Statistical Analysis, Data Cleaning, Exploratory Data Analysis (EDA)
+
+
+---
+
+### 📈 GitHub Stats
+
+![Nayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=calm&hide=contribs,issues)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=calm)
+
+---
+
+### 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/contactnayankoparkar)
+- 📧 Email: nayankoparkar67@gmail.com
+
+---
+
+> “Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee
+
+Thanks for stopping by! 😊  
+Feel free to check out my repositories and get in touch!
+
