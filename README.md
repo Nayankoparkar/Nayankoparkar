@@ -18,9 +18,9 @@ Welcome to my GitHub! I’m a passionate Data Analyst with a strong foundation i
 
 ### 📈 GitHub Stats
 
-![Nayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=calm&hide=contribs,issues)
+![Nayan's GitHub Stats](https://github-readme-stats.vercel.app/api?https://github.com/Nayankoparkar/&show_icons=true&theme=calm&hide=contribs,issues)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=calm)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/Nayankoparkar/&layout=compact&theme=calm)
 
 ---
 
