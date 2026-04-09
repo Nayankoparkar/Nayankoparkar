@@ -9,7 +9,7 @@ Welcome to my GitHub! I’m a passionate Data Analyst with a strong foundation i
 ### 🚀 Technologies & Tools
 
 - **Languages:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL (MS SQL Server)
-- **Data Visualization:** Tableau,Power BI Excel (PivotTables, Power Query, Charts)
+- **Data Visualization:** Tableau,Power BI, Excel (PivotTables, Power Query, Charts)
 - **Machine Learning:** Regression, Classification, Clustering, Model Evaluation
 - **Other Skills:** Statistical Analysis, Data Cleaning, Exploratory Data Analysis (EDA)
 
