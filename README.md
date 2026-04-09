@@ -21,7 +21,7 @@ Welcome to my GitHub! I’m a passionate Data Analyst with a strong foundation i
 ![Nayan's GitHub Stats](https://streak-stats.demolab.com?user=Nayankoparkar&theme=calm))
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayankoparkar&layout=compact&theme=calm)
+!![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayankoparkar&layout=compact&theme=calm&langs_count=6)
 
 ---
 
